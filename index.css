@@ -1,0 +1,46 @@
+body {
+    margin-left: 20px ;
+    background-color: #1F2937;
+    color:white;
+    text-align: left;
+}
+.he{
+    margin-bottom: 0
+}
+.h{
+     color: #10B999;
+     margin-top: 0;
+}
+h3{
+    color: #D5D4D8;
+}
+
+#btn{
+    background-color: #10B981;
+    padding: 1rem 2rem;
+    border: none;
+    color: #ffffff;
+    border-radius: 6px;
+    margin: 40px 0;
+    cursor: pointer;
+}
+
+   
+
+ #pwd1{
+    background-color:  #273549;
+     padding: 20px 50px;
+ 
+     border-radius: 6px;
+     border: none;   
+     color: #10B981;
+ }
+ #pwd2{
+   background-color:  #273549;
+   color: #10B981;
+   padding: 20px 50px;
+    border-radius: 6px;
+    border: none;
+    margin: 10px
+ }
+ 
